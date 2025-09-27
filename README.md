@@ -18,9 +18,6 @@ pip install -r requirements.txt
 # Создание необходимых директорий
 mkdir -p logs models
 
-### 3. Запуск
-\`\`\`bash
-
 # Активация окружения
 source venv/bin/activate
 
