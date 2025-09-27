@@ -1,0 +1,17 @@
+2025-09-27 15:16:15 | INFO     | TearsInRain | 🌧️  Запуск Tears in Rain Protocol...
+2025-09-27 15:16:15 | INFO     | TearsInRain | 🤖 Запуск агента Батти...
+2025-09-27 15:16:15 | INFO     | TearsInRain | 🆕 Создана новая модель
+2025-09-27 15:16:15 | INFO     | TearsInRain | 🚪 Запуск Tannhäuser Gate...
+2025-09-27 15:16:15 | WARNING  | TearsInRain | ⚠️  Для полной функциональности требуются права root
+2025-09-27 15:16:15 | INFO     | TearsInRain | 🎵 Запуск Echoes of Orion...
+2025-09-27 15:16:16 | INFO     | TearsInRain | ✅ Протокол успешно запущен
+2025-09-27 15:16:17 | ERROR    | TearsInRain | Ошибка получения прогноза: 'IsolationForest' object has no attribute 'estimators_'
+2025-09-27 15:16:18 | INFO     | TearsInRain | 🎼 Звуковой ландшафт: низкий тон CPU, умеренный гул памяти, частые клики нагрузки, шуршание диска, сетевые пинги
+2025-09-27 15:16:24 | ERROR    | TearsInRain | Ошибка получения прогноза: 'IsolationForest' object has no attribute 'estimators_'
+2025-09-27 15:16:25 | INFO     | TearsInRain | 🎼 Звуковой ландшафт: низкий тон CPU, умеренный гул памяти, частые клики нагрузки, шуршание диска, сетевые пинги
+2025-09-27 15:16:31 | ERROR    | TearsInRain | Ошибка получения прогноза: 'IsolationForest' object has no attribute 'estimators_'
+2025-09-27 15:16:32 | INFO     | TearsInRain | 🎼 Звуковой ландшафт: низкий тон CPU, умеренный гул памяти, частые клики нагрузки, шуршание диска, сетевые пинги
+2025-09-27 15:16:38 | ERROR    | TearsInRain | Ошибка получения прогноза: 'IsolationForest' object has no attribute 'estimators_'
+2025-09-27 15:16:39 | INFO     | TearsInRain | 🎼 Звуковой ландшафт: низкий тон CPU, умеренный гул памяти, частые клики нагрузки, шуршание диска, сетевые пинги
+2025-09-27 15:16:45 | ERROR    | TearsInRain | Ошибка получения прогноза: 'IsolationForest' object has no attribute 'estimators_'
+2025-09-27 15:16:46 | INFO     | TearsInRain | 🎼 Звуковой ландшафт: низкий тон CPU, умеренный гул памяти, редкие клики нагрузки, шуршание диска, сетевые пинги

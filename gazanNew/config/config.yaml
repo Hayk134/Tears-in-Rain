@@ -1,0 +1,38 @@
+
+
+monitoring:
+  interval: 5
+  metrics_collection_interval: 2
+  risk_threshold: 0.6
+
+logging:
+  level: INFO
+  file: logs/tears_in_rain.log
+  max_size: 10MB
+  backup_count: 5
+
+audio:
+  enabled: true
+  base_frequency: 220
+  max_volume: 0.7
+
+throttling:
+  enabled: true
+  max_nice_value: 19
+  cpu_threshold: 80
+  memory_threshold: 85
+
+batty_agent:
+  model_retrain_interval: 100
+  history_limit: 1000
+  contamination: 0.1
+
+tannhauser_gate:
+  max_throttled_processes: 5
+  throttle_duration: 300
+  cgroup_monitoring: true
+
+echoes_of_orion:
+  soundscape_update_interval: 0.1
+  alert_cooldown: 5
+  background_sound_enabled: true
