@@ -54,4 +54,4 @@ kill -TERM <PID>
 ##Создайте новый проект
 # npx create-react-app my-app 
 ## cd /путь/к/вашему/проекту
-## npm start
+# npm start
